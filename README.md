@@ -1,2 +1,2 @@
 # qr_cod
-Primeiro desafio do frontend mentorr
+Primeiro desafio do frontend Mentor
